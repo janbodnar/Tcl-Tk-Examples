@@ -21,5 +21,5 @@ pack .fr.cb -padx 5 -pady 5 -side right
 ttk::button .fr.ok -text "OK"
 pack .fr.ok -side right
 
-wm title . "Buttons" 
+wm title . "buttons" 
 wm geometry . 350x300+300+300
